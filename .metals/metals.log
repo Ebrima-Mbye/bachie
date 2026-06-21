@@ -1,0 +1,219 @@
+2026.06.21 17:36:35 INFO  Started: Metals version 1.6.7 in folders 'C:\Users\EbrimaMbye\Desktop\A_Helping\bachie' for client Visual Studio Code 1.125.1.
+2026.06.21 17:36:35 INFO  Memory monitor started
+2026.06.21 17:36:36 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.06.21 17:36:49 INFO  no build target found for C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\model\User.java. Using fallback presentation compiler.
+2026.06.21 17:36:49 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\model\User.java
+2026.06.21 17:36:53 INFO  no build target found for C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\model\Category.java. Using fallback presentation compiler.
+2026.06.21 17:36:53 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\model\Category.java
+2026.06.21 17:36:59 INFO  no build target found for C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\model\Product.java. Using fallback presentation compiler.
+2026.06.21 17:37:00 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\model\Product.java
+2026.06.21 17:37:09 INFO  no build target found for C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\model\Order.java. Using fallback presentation compiler.
+2026.06.21 17:37:09 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\model\Order.java
+2026.06.21 17:37:16 INFO  no build target found for C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\model\OrderItem.java. Using fallback presentation compiler.
+2026.06.21 17:37:16 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\model\OrderItem.java
+2026.06.21 17:37:22 INFO  no build target found for C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\model\Cart.java. Using fallback presentation compiler.
+2026.06.21 17:37:22 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\model\Cart.java
+2026.06.21 17:37:27 INFO  no build target found for C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\model\CartItem.java. Using fallback presentation compiler.
+2026.06.21 17:37:27 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\model\CartItem.java
+2026.06.21 17:37:42 INFO  no build target found for C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\repository\UserRepository.java. Using fallback presentation compiler.
+2026.06.21 17:37:42 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\repository\UserRepository.java
+2026.06.21 17:37:47 INFO  no build target found for C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.06.21 17:37:47 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\repository\CategoryRepository.java
+2026.06.21 17:37:53 INFO  no build target found for C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\repository\ProductRepository.java. Using fallback presentation compiler.
+2026.06.21 17:37:53 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\repository\ProductRepository.java
+2026.06.21 17:37:57 INFO  no build target found for C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\repository\CartRepository.java. Using fallback presentation compiler.
+2026.06.21 17:37:57 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\repository\CartRepository.java
+2026.06.21 17:38:00 INFO  no build target found for C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\repository\CartItemRepository.java. Using fallback presentation compiler.
+2026.06.21 17:38:00 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\repository\CartItemRepository.java
+2026.06.21 17:38:05 INFO  no build target found for C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\repository\OrderRepository.java. Using fallback presentation compiler.
+2026.06.21 17:38:05 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\repository\OrderRepository.java
+2026.06.21 17:38:17 INFO  no build target found for C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\dto\auth\RegisterRequest.java. Using fallback presentation compiler.
+2026.06.21 17:38:17 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\dto\auth\RegisterRequest.java
+2026.06.21 17:38:21 INFO  no build target found for C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\dto\auth\LoginRequest.java. Using fallback presentation compiler.
+2026.06.21 17:38:21 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\dto\auth\LoginRequest.java
+2026.06.21 17:38:26 INFO  no build target found for C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\dto\auth\AuthResponse.java. Using fallback presentation compiler.
+2026.06.21 17:38:26 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\dto\auth\AuthResponse.java
+2026.06.21 17:38:30 INFO  no build target found for C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\dto\category\CategoryRequest.java. Using fallback presentation compiler.
+2026.06.21 17:38:30 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\dto\category\CategoryRequest.java
+2026.06.21 17:38:37 INFO  no build target found for C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\dto\category\CategoryResponse.java. Using fallback presentation compiler.
+2026.06.21 17:38:37 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\dto\category\CategoryResponse.java
+2026.06.21 17:38:43 INFO  no build target found for C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\dto\product\ProductRequest.java. Using fallback presentation compiler.
+2026.06.21 17:38:43 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\dto\product\ProductRequest.java
+2026.06.21 17:38:49 INFO  no build target found for C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\dto\product\ProductResponse.java. Using fallback presentation compiler.
+2026.06.21 17:38:49 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\dto\product\ProductResponse.java
+2026.06.21 17:38:55 INFO  no build target found for C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\dto\cart\CartItemRequest.java. Using fallback presentation compiler.
+2026.06.21 17:38:55 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\dto\cart\CartItemRequest.java
+2026.06.21 17:39:02 INFO  no build target found for C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\dto\cart\CartResponse.java. Using fallback presentation compiler.
+2026.06.21 17:39:02 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\dto\cart\CartResponse.java
+2026.06.21 17:39:06 INFO  no build target found for C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\dto\order\OrderRequest.java. Using fallback presentation compiler.
+2026.06.21 17:39:06 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\dto\order\OrderRequest.java
+2026.06.21 17:39:12 INFO  no build target found for C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\dto\order\OrderStatusRequest.java. Using fallback presentation compiler.
+2026.06.21 17:39:12 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\dto\order\OrderStatusRequest.java
+2026.06.21 17:39:20 INFO  no build target found for C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\dto\order\OrderResponse.java. Using fallback presentation compiler.
+2026.06.21 17:39:20 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\dto\order\OrderResponse.java
+2026.06.21 17:39:29 INFO  no build target found for C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\dto\ApiResponse.java. Using fallback presentation compiler.
+2026.06.21 17:39:29 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\dto\ApiResponse.java
+2026.06.21 17:39:46 INFO  no build target found for C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\exception\ResourceNotFoundException.java. Using fallback presentation compiler.
+2026.06.21 17:39:46 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\exception\ResourceNotFoundException.java
+2026.06.21 17:39:51 INFO  no build target found for C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\exception\BadRequestException.java. Using fallback presentation compiler.
+2026.06.21 17:39:51 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\exception\BadRequestException.java
+2026.06.21 17:39:56 INFO  no build target found for C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\exception\UnauthorizedException.java. Using fallback presentation compiler.
+2026.06.21 17:39:56 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\exception\UnauthorizedException.java
+2026.06.21 17:40:02 INFO  no build target found for C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\exception\ApiError.java. Using fallback presentation compiler.
+2026.06.21 17:40:02 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\exception\ApiError.java
+2026.06.21 17:40:15 INFO  no build target found for C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\exception\GlobalExceptionHandler.java. Using fallback presentation compiler.
+2026.06.21 17:40:15 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\exception\GlobalExceptionHandler.java
+2026.06.21 17:40:33 INFO  no build target found for C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\security\UserDetailsServiceImpl.java. Using fallback presentation compiler.
+2026.06.21 17:40:33 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\security\UserDetailsServiceImpl.java
+2026.06.21 17:40:45 INFO  no build target found for C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\security\JwtTokenProvider.java. Using fallback presentation compiler.
+2026.06.21 17:40:45 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\security\JwtTokenProvider.java
+2026.06.21 17:40:54 INFO  no build target found for C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\security\JwtAuthenticationFilter.java. Using fallback presentation compiler.
+2026.06.21 17:40:54 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\security\JwtAuthenticationFilter.java
+2026.06.21 17:41:14 INFO  no build target found for C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.06.21 17:41:14 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\config\SecurityConfig.java
+2026.06.21 17:41:23 INFO  no build target found for C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\config\OpenApiConfig.java. Using fallback presentation compiler.
+2026.06.21 17:41:23 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\config\OpenApiConfig.java
+2026.06.21 17:41:44 INFO  no build target found for C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\config\DataInitializer.java. Using fallback presentation compiler.
+2026.06.21 17:41:44 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\config\DataInitializer.java
+2026.06.21 17:42:03 INFO  no build target found for C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\service\AuthService.java. Using fallback presentation compiler.
+2026.06.21 17:42:03 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\service\AuthService.java
+2026.06.21 17:42:13 INFO  no build target found for C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\service\CategoryService.java. Using fallback presentation compiler.
+2026.06.21 17:42:13 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\service\CategoryService.java
+2026.06.21 17:42:27 INFO  no build target found for C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\service\ProductService.java. Using fallback presentation compiler.
+2026.06.21 17:42:27 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\service\ProductService.java
+2026.06.21 17:42:46 INFO  no build target found for C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\service\CartService.java. Using fallback presentation compiler.
+2026.06.21 17:42:46 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\service\CartService.java
+2026.06.21 17:43:10 INFO  no build target found for C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\service\OrderService.java. Using fallback presentation compiler.
+2026.06.21 17:43:10 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\service\OrderService.java
+2026.06.21 17:43:26 INFO  no build target found for C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\controller\AuthController.java. Using fallback presentation compiler.
+2026.06.21 17:43:26 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\controller\AuthController.java
+2026.06.21 17:43:35 INFO  no build target found for C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\controller\CategoryController.java. Using fallback presentation compiler.
+2026.06.21 17:43:35 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\controller\CategoryController.java
+2026.06.21 17:43:46 INFO  no build target found for C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\controller\ProductController.java. Using fallback presentation compiler.
+2026.06.21 17:43:46 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\controller\ProductController.java
+2026.06.21 17:43:57 INFO  no build target found for C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\controller\CartController.java. Using fallback presentation compiler.
+2026.06.21 17:43:57 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\controller\CartController.java
+2026.06.21 17:44:10 INFO  no build target found for C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\controller\OrderController.java. Using fallback presentation compiler.
+2026.06.21 17:44:10 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\controller\OrderController.java
+2026.06.21 17:44:45 INFO  no build target found for C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\test\java\com\ecommerce\EcommerceApplicationTests.java. Using fallback presentation compiler.
+2026.06.21 17:44:45 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\test\java\com\ecommerce\EcommerceApplicationTests.java
+Jun 21, 2026 5:45:39 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Jun 21, 2026 5:45:42 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.06.21 17:50:48 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\repository\UserRepository.java
+2026.06.21 17:50:48 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\dto\product\ProductResponse.java
+2026.06.21 17:50:48 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\controller\ProductController.java
+2026.06.21 17:50:48 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\service\CartService.java
+2026.06.21 17:50:48 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\dto\order\OrderRequest.java
+2026.06.21 17:50:48 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\service\CategoryService.java
+2026.06.21 17:50:48 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\controller\CategoryController.java
+2026.06.21 17:50:48 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\dto\category\CategoryResponse.java
+2026.06.21 17:50:48 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\dto\product\ProductRequest.java
+2026.06.21 17:50:48 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\model\Product.java
+2026.06.21 17:50:48 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\dto\auth\LoginRequest.java
+2026.06.21 17:50:48 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\controller\OrderController.java
+2026.06.21 17:50:48 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\dto\auth\AuthResponse.java
+2026.06.21 17:50:48 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\repository\OrderRepository.java
+2026.06.21 17:50:48 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\test\java\com\ecommerce\EcommerceApplicationTests.java
+2026.06.21 17:50:48 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\exception\GlobalExceptionHandler.java
+2026.06.21 17:50:48 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\exception\ApiError.java
+2026.06.21 17:50:48 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\repository\CartItemRepository.java
+2026.06.21 17:50:48 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\repository\ProductRepository.java
+2026.06.21 17:50:48 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\dto\ApiResponse.java
+2026.06.21 17:50:48 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\repository\CategoryRepository.java
+2026.06.21 17:50:48 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\config\SecurityConfig.java
+2026.06.21 17:50:48 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\model\Category.java
+2026.06.21 17:50:48 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\EcommerceApplication.java
+2026.06.21 17:50:48 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\controller\AuthController.java
+2026.06.21 17:50:48 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\security\JwtTokenProvider.java
+2026.06.21 17:50:48 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\controller\CartController.java
+2026.06.21 17:50:48 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\exception\BadRequestException.java
+2026.06.21 17:50:48 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\dto\order\OrderResponse.java
+2026.06.21 17:50:48 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\dto\order\OrderStatusRequest.java
+2026.06.21 17:50:48 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\config\OpenApiConfig.java
+2026.06.21 17:50:48 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\dto\cart\CartItemRequest.java
+2026.06.21 17:50:48 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\security\JwtAuthenticationFilter.java
+2026.06.21 17:50:48 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\service\AuthService.java
+2026.06.21 17:50:48 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\dto\cart\CartResponse.java
+2026.06.21 17:50:48 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\exception\UnauthorizedException.java
+2026.06.21 17:50:48 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\dto\auth\RegisterRequest.java
+2026.06.21 17:50:48 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\repository\CartRepository.java
+2026.06.21 17:50:48 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\config\DataInitializer.java
+2026.06.21 17:50:48 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\exception\ResourceNotFoundException.java
+2026.06.21 17:50:48 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\model\CartItem.java
+2026.06.21 17:50:48 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\model\OrderItem.java
+2026.06.21 17:50:48 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\service\OrderService.java
+2026.06.21 17:50:48 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\model\Cart.java
+2026.06.21 17:50:48 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\model\Order.java
+2026.06.21 17:50:48 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\model\enums\OrderStatus.java
+2026.06.21 17:50:48 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\security\UserDetailsServiceImpl.java
+2026.06.21 17:50:48 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\dto\category\CategoryRequest.java
+2026.06.21 17:50:48 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\model\enums\Role.java
+2026.06.21 17:50:48 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\model\User.java
+2026.06.21 17:50:48 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\service\ProductService.java
+2026.06.21 17:55:24 INFO  no build target found for C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\repository\ProductRepository.java. Using fallback presentation compiler.
+2026.06.21 17:55:24 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\EcommerceApplication.java
+2026.06.21 17:55:25 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\model\CartItem.java
+2026.06.21 17:55:25 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\model\enums\OrderStatus.java
+2026.06.21 17:55:25 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\model\User.java
+2026.06.21 17:55:26 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\model\OrderItem.java
+2026.06.21 17:55:26 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\model\enums\Role.java
+2026.06.21 17:55:27 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\repository\UserRepository.java
+2026.06.21 17:55:28 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\model\Product.java
+2026.06.21 17:55:27 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\dto\auth\RegisterRequest.java
+2026.06.21 17:55:29 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\repository\CartRepository.java
+2026.06.21 17:55:30 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\repository\CartItemRepository.java
+2026.06.21 17:55:31 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\dto\auth\LoginRequest.java
+2026.06.21 17:55:32 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\model\Order.java
+2026.06.21 17:55:33 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\model\Category.java
+2026.06.21 17:55:37 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\dto\auth\AuthResponse.java
+2026.06.21 17:55:37 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\repository\CategoryRepository.java
+2026.06.21 17:55:37 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\dto\cart\CartItemRequest.java
+2026.06.21 17:55:37 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\model\Cart.java
+2026.06.21 17:55:37 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\dto\order\OrderStatusRequest.java
+2026.06.21 17:55:37 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\dto\product\ProductRequest.java
+2026.06.21 17:55:38 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\dto\product\ProductResponse.java
+2026.06.21 17:55:37 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\repository\ProductRepository.java
+2026.06.21 17:55:38 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\dto\cart\CartResponse.java
+2026.06.21 17:55:37 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\dto\category\CategoryResponse.java
+2026.06.21 17:55:37 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\dto\category\CategoryRequest.java
+2026.06.21 17:55:38 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\repository\OrderRepository.java
+2026.06.21 17:55:38 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\dto\order\OrderResponse.java
+2026.06.21 17:55:38 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\exception\UnauthorizedException.java
+2026.06.21 17:55:38 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\dto\order\OrderRequest.java
+2026.06.21 17:55:38 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\exception\BadRequestException.java
+2026.06.21 17:55:39 INFO  no build target found for C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\config\SecurityConfig.java. Using fallback presentation compiler.
+Jun 21, 2026 5:55:39 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.06.21 17:55:39 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\exception\ResourceNotFoundException.java
+2026.06.21 17:55:40 INFO  no build target found for C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\controller\CategoryController.java. Using fallback presentation compiler.
+2026.06.21 17:55:40 INFO  no build target found for C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\security\JwtAuthenticationFilter.java. Using fallback presentation compiler.
+2026.06.21 17:55:40 INFO  no build target found for C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\controller\ProductController.java. Using fallback presentation compiler.
+2026.06.21 17:55:40 INFO  no build target found for C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\controller\OrderController.java. Using fallback presentation compiler.
+2026.06.21 17:55:40 INFO  no build target found for C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\service\AuthService.java. Using fallback presentation compiler.
+2026.06.21 17:55:40 INFO  no build target found for C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\security\UserDetailsServiceImpl.java. Using fallback presentation compiler.
+2026.06.21 17:55:40 INFO  no build target found for C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\exception\GlobalExceptionHandler.java. Using fallback presentation compiler.
+2026.06.21 17:55:40 INFO  no build target found for C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\config\DataInitializer.java. Using fallback presentation compiler.
+2026.06.21 17:55:40 INFO  no build target found for C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\controller\CartController.java. Using fallback presentation compiler.
+2026.06.21 17:55:40 INFO  no build target found for C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\test\java\com\ecommerce\EcommerceApplicationTests.java. Using fallback presentation compiler.
+2026.06.21 17:55:40 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\exception\ApiError.java
+2026.06.21 17:55:40 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\security\JwtTokenProvider.java
+2026.06.21 17:55:40 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\config\SecurityConfig.java
+2026.06.21 17:55:40 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\dto\ApiResponse.java
+2026.06.21 17:55:40 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\service\CategoryService.java
+2026.06.21 17:55:40 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\controller\CategoryController.java
+2026.06.21 17:55:40 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\security\JwtAuthenticationFilter.java
+2026.06.21 17:55:40 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\controller\ProductController.java
+2026.06.21 17:55:40 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\controller\OrderController.java
+2026.06.21 17:55:41 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\service\AuthService.java
+2026.06.21 17:55:40 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\service\ProductService.java
+2026.06.21 17:55:41 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\security\UserDetailsServiceImpl.java
+2026.06.21 17:55:41 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\config\OpenApiConfig.java
+2026.06.21 17:55:41 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\controller\AuthController.java
+2026.06.21 17:55:41 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\exception\GlobalExceptionHandler.java
+2026.06.21 17:55:41 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\config\DataInitializer.java
+2026.06.21 17:55:41 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\controller\CartController.java
+2026.06.21 17:55:42 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\test\java\com\ecommerce\EcommerceApplicationTests.java
+2026.06.21 17:55:41 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\service\CartService.java
+2026.06.21 17:55:41 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Helping\bachie\ecommerce-api\src\main\java\com\ecommerce\service\OrderService.java
