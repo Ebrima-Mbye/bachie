@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(powershell -Command \"Get-Content 'C:\\\\Users\\\\EbrimaMbye\\\\.claude\\\\projects\\\\c--Users-EbrimaMbye-Desktop-A-Helping-bachie\\\\c6bd4cb5-5094-41cf-a133-c1f5716d62f7\\\\tool-results\\\\toolu_012dpMWd5Jf5x2vn8qAcvsnX.json' | Select-Object -First 500 | Out-String\")",
+      "Skill(artifact-design)",
+      "Skill(artifact-design:*)"
+    ]
+  }
+}
